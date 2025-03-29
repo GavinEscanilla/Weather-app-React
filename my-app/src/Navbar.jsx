@@ -2,8 +2,8 @@ const Navbar = () => {
   return (
     <nav className=" flex flex-row justify-center  items-center w-full  h-20 bg-blue-400 px-5 shadow-2xl">
       <ul className="flex space-x-6 text-2xl">
-        <li clas>
-          <a href="#">Home</a>
+        <li >
+          <a href="#">Hme</a>
         </li>
         <li>
           <a href="#">About</a>
